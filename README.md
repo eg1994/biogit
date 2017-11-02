@@ -1,2 +1,2 @@
 # biogit
-learning how to git
+learning how to git :) 
